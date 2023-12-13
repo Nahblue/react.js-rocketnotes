@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Aplicação para auxiliar o usuário a guardar anotações importantes, seja de estudos, aulas, etc. 
 
-[Aplicação online](https://rocketnotes-explorer11.netlify.app/)
+[Aplicação online](https://rocketnotes-explorer11.netlify.app/) <br />
 [Backend da aplicação](https://github.com/Nahblue/api-rocketnotes)
 
 
